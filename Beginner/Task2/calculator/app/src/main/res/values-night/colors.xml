@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="btn_text_color">#fff</color>
+    <color name="opretor_btn_text_color">#EB8D0D</color>
+    <color name="background_color">#283345</color>
+    <color name="special_btn_color">#797D80</color>
+
+</resources>
